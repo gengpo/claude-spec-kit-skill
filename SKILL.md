@@ -148,7 +148,7 @@ Each phase has its own constitution, spec, plan, and tasks.
 {
   "ai": {
     "provider": "claude",
-    "model": "claude-3-5-sonnet-20241022",
+    "model": "claude-3-6-0-sonnet",
     "apiKey": "${OPENROUTER_API_KEY}",
     "baseUrl": "https://openrouter.ai/api/v1"
   }
